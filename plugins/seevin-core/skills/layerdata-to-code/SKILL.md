@@ -1,5 +1,5 @@
 ---
-name: layerdata-to-code
+name: LayerData to Code
 description: '将 layerDatas 图层数据转换为 Vue 组件代码 (HTML + CSS)。当用户提示词中包含 layerDatas 时调用'
 ---
 
