@@ -21,7 +21,7 @@ Seevin 团队专属 Claude Code 插件集，提供企业级前端开发工具。
 - ✨ 前端界面设计技能
 - 🎨 LayerData 转换为 Vue 组件
 - 📋 JSD 企业代码规范检查
-- 🛠️ Chrome 开发者工具集成
+- 🌐 Chrome DevTools 集成
 - 📖 TDesign 组件库文档查询
 - 📚 Context7 文档查询
 
@@ -50,8 +50,8 @@ Seevin 团队专属 Claude Code 插件集，提供企业级前端开发工具。
   - `jsd-auto-lint` - JSD 企业代码规范检查
 
 - **MCP Servers**:
-  - `chrome-devtools` - Chrome 开发者工具集成
-  - `context7` - 库文档查询
+  - `chrome-devtools` - Chrome DevTools 集成
+  - `context7` - 库文档查询（Upstash）
   - `tdesign-mcp-server` - TDesign 组件库工具
 
 ### seevin-yapi-tools

@@ -3,12 +3,12 @@
     "chrome-devtools": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-chrome-devtools"]
+      "args": ["-y", "chrome-devtools-mcp"]
     },
     "context7": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-context7"]
+      "args": ["-y", "@upstash/context7-mcp"]
     },
     "tdesign-mcp-server": {
       "type": "stdio",

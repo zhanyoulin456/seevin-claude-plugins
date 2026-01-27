@@ -98,8 +98,8 @@ argument-hint: [参数提示]
 
 已集成的 MCP 服务器：
 
-- `chrome-devtools`: Chrome 开发者工具
-- `context7`: 库文档查询
+- `chrome-devtools`: Chrome DevTools 集成
+- `context7`: 库文档查询（Upstash）
 - `tdesign-mcp-server`: TDesign 组件库工具
 - `yapi-get-interface-mcp`: YAPI 接口文档获取
 

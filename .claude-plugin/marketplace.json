@@ -1,6 +1,6 @@
 {
   "name": "seevin-claude-plugins",
-  "description": "Seevin 团队专属 Claude Code 插件集 - 包含前端设计、YAPI 代码生成、代码规范检查等企业级开发工具",
+  "description": "Seevin 团队专属 Claude Code 插件集 - 包含前端设计、YAPI 代码生成、代码规范检查、浏览器自动化等企业级开发工具",
   "owner": {
     "name": "Seevin Team",
     "email": "zhanyoulin456@163.com"
