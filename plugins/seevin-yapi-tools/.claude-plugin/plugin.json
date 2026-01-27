@@ -1,0 +1,15 @@
+{
+  "name": "seevin-yapi-tools",
+  "description": "YAPI 接口文档自动化工具 - 根据接口文档生成 JS/TS 代码，需配置个人 YAPI 凭证",
+  "version": "1.0.0",
+  "author": {
+    "name": "Seevin Team",
+    "email": "zhanyoulin456@163.com"
+  },
+  "license": "MIT",
+  "category": "development",
+  "tags": ["api", "code-generation", "yapi", "configuration-required"],
+  "mcpServers": "./.mcp.json",
+  "commands": "./commands",
+  "homepage": "https://github.com/zhanyoulin456/seevin-claude-plugins/tree/main/plugins/seevin-yapi-tools#readme"
+}

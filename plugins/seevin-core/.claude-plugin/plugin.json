@@ -1,0 +1,16 @@
+{
+  "name": "seevin-core",
+  "description": "Seevin 核心工具集 - 前端设计技能、LayerData 转代码、代码规范检查、Chrome 开发者工具集成",
+  "version": "1.0.0",
+  "author": {
+    "name": "Seevin Team",
+    "email": "zhanyoulin456@163.com"
+  },
+  "license": "MIT",
+  "category": "development",
+  "tags": ["frontend", "code-quality", "team-standards", "chrome-devtools"],
+  "mcpServers": "./.mcp.json",
+  "commands": "./commands",
+  "skills": "./skills",
+  "homepage": "https://github.com/zhanyoulin456/seevin-claude-plugins/tree/main/plugins/seevin-core#readme"
+}
