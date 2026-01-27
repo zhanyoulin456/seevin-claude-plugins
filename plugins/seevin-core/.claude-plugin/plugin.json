@@ -7,8 +7,6 @@
     "email": "zhanyoulin456@163.com"
   },
   "license": "MIT",
-  "category": "development",
-  "tags": ["frontend", "code-quality", "team-standards", "chrome-devtools"],
   "mcpServers": "./.mcp.json",
   "commands": "./commands",
   "skills": "./skills",
