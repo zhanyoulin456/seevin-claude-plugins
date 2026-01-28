@@ -1,19 +1,26 @@
 {
   "mcpServers": {
     "chrome-devtools": {
-      "type": "stdio",
       "command": "npx",
-      "args": ["-y", "chrome-devtools-mcp"]
+      "args": [
+        "-y",
+        "chrome-devtools-mcp@latest"
+      ]
     },
     "context7": {
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@upstash/context7-mcp"]
+      "type": "http",
+      "url": "https://mcp.context7.com/mcp",
+      "headers": {
+        "CONTEXT7_API_KEY": "YOUR_API_KEY"
+      }
     },
     "tdesign-mcp-server": {
       "type": "stdio",
       "command": "npx",
-      "args": ["-y", "tdesign-mcp-server"]
+      "args": [
+        "-y",
+        "tdesign-mcp-server"
+      ]
     }
   }
 }

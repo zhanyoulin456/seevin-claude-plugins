@@ -4,10 +4,14 @@
       "type": "stdio",
       "command": "npx",
       "args": [
+        "-y",
         "yapi-get-interface-mcp",
-        "--email", "YOUR_EMAIL_HERE",
-        "--password", "YOUR_PASSWORD_HERE",
-        "--url", "YOUR_YAPI_URL_HERE"
+        "--email",
+        "YOUR_EMAIL_HERE",
+        "--password",
+        "YOUR_PASSWORD_HERE",
+        "--url",
+        "YOUR_YAPI_URL_HERE"
       ]
     }
   }
